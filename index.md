@@ -4,6 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
-
-{{ site.time | date_to_xmlschema }}
