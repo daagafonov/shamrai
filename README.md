@@ -1,6 +1,0 @@
-# shamrai
-dfddffdf
-
-# agafonov
-
-## dmytro
